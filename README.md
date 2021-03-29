@@ -1,5 +1,5 @@
 # CPP-166
-Minimum swaps to sort
+minimum no. of swaps required to sort the array
 
 
 https://practice.geeksforgeeks.org/problems/minimum-swaps/1
